@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+ArmoLegend all day everyday
 Use the left arrow to go back!
